@@ -1,9 +1,9 @@
 <?php 
 $servername="localhost"; 
-$username="root"; 
-$password=""; 
+$username="score"; 
+$password="mypassword"; 
 $database="soccer"; 
-$conn =mysqli_connect("localhost","root","","soccer");    
+$conn =mysqli_connect("localhost","score","mypassword","soccer");    
 error_reporting(0); ?>
  <!DOCTYPE html>
 
