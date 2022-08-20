@@ -160,8 +160,8 @@ y
             border:15px solid blue;
           } 
             </style>
-            <div style="background-color:blue;">
-            <p style="background-color:blue;">
+            <div style="background-color:black;">
+            <p style="background-color:black;">
           FIXED MATCHES
 THESE ARE FOOTBALL MATCHES OUTCOMES THAT HAVE BEEN INFLUENCED BY THE TOP GUYS TO HAPPEN.
 FOR EACH OUTCOMES THERE IS AVERAGE OF 960,000$ PLACED ON THEM.
